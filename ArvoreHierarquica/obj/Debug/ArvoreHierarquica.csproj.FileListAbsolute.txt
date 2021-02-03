@@ -1,0 +1,7 @@
+C:\Users\igor_\source\repos\ArvoreHierarquica\ArvoreHierarquica\bin\Debug\ArvoreHierarquica.exe.config
+C:\Users\igor_\source\repos\ArvoreHierarquica\ArvoreHierarquica\bin\Debug\ArvoreHierarquica.exe
+C:\Users\igor_\source\repos\ArvoreHierarquica\ArvoreHierarquica\bin\Debug\ArvoreHierarquica.pdb
+C:\Users\igor_\source\repos\ArvoreHierarquica\ArvoreHierarquica\obj\Debug\ArvoreHierarquica.csprojAssemblyReference.cache
+C:\Users\igor_\source\repos\ArvoreHierarquica\ArvoreHierarquica\obj\Debug\ArvoreHierarquica.csproj.CoreCompileInputs.cache
+C:\Users\igor_\source\repos\ArvoreHierarquica\ArvoreHierarquica\obj\Debug\ArvoreHierarquica.exe
+C:\Users\igor_\source\repos\ArvoreHierarquica\ArvoreHierarquica\obj\Debug\ArvoreHierarquica.pdb

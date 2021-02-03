@@ -1,0 +1,17 @@
+C:\Users\igor_\source\repos\ArvoreHierarquica\TesteUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\igor_\source\repos\ArvoreHierarquica\TesteUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\igor_\source\repos\ArvoreHierarquica\TesteUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\igor_\source\repos\ArvoreHierarquica\TesteUnitario\bin\Debug\TesteUnitario.dll
+C:\Users\igor_\source\repos\ArvoreHierarquica\TesteUnitario\bin\Debug\TesteUnitario.pdb
+C:\Users\igor_\source\repos\ArvoreHierarquica\TesteUnitario\bin\Debug\ArvoreHierarquica.exe
+C:\Users\igor_\source\repos\ArvoreHierarquica\TesteUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\igor_\source\repos\ArvoreHierarquica\TesteUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\igor_\source\repos\ArvoreHierarquica\TesteUnitario\bin\Debug\ArvoreHierarquica.pdb
+C:\Users\igor_\source\repos\ArvoreHierarquica\TesteUnitario\bin\Debug\ArvoreHierarquica.exe.config
+C:\Users\igor_\source\repos\ArvoreHierarquica\TesteUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\igor_\source\repos\ArvoreHierarquica\TesteUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\igor_\source\repos\ArvoreHierarquica\TesteUnitario\obj\Debug\TesteUnitario.csprojAssemblyReference.cache
+C:\Users\igor_\source\repos\ArvoreHierarquica\TesteUnitario\obj\Debug\TesteUnitario.csproj.CoreCompileInputs.cache
+C:\Users\igor_\source\repos\ArvoreHierarquica\TesteUnitario\obj\Debug\TesteUnitario.csproj.CopyComplete
+C:\Users\igor_\source\repos\ArvoreHierarquica\TesteUnitario\obj\Debug\TesteUnitario.dll
+C:\Users\igor_\source\repos\ArvoreHierarquica\TesteUnitario\obj\Debug\TesteUnitario.pdb
